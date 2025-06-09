@@ -1,8 +1,8 @@
-# BioInCRO's Open Source ExplainMyMutations.AI
+# Bharat's Open Source ExplainMyMutations.AI
 
 ## Project Description
 
-BioInCRO's Open Source ExplainMyMutations.AI is a powerful generative tool designed to demystify genetic mutations. It can explain somatic or germline mutations in either patient-friendly, layman's terms or precise, clinician-ready language. The explanations are generated using Google's Gemini AI model, leveraging information from various authoritative biomedical databases.
+Bharat's Open Source ExplainMyMutations.AI is a powerful generative tool designed to demystify genetic mutations. It can explain somatic or germline mutations in either patient-friendly, layman's terms or precise, clinician-ready language. The explanations are generated using Google's Gemini AI model, leveraging information from various authoritative biomedical databases.
 
 This application aims to bridge the communication gap between complex genetic data and different audiences, providing clear, context-specific information.
 
@@ -97,4 +97,4 @@ This project is open-source. Please refer to the specific license file if availa
 
 ## Contact
 
-For more information, please visit [BioInCRO](https://bioincro.com/).
+For more information, please visit [Bharat](https://Bharat.com/).
