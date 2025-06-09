@@ -1,0 +1,6 @@
+
+{
+  "name": "BioInCRO's Open Source ExplainMyMutations.AI",
+  "description": "A generative tool to explain somatic or germline mutations in layman terms or clinician-ready language. Explanations are generated based on information from various biomedical databases.",
+  "requestFramePermissions": []
+}
