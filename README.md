@@ -97,4 +97,4 @@ This project is open-source. Please refer to the specific license file if availa
 
 ## Contact
 
-For more information, please visit [Bharat](https://Bharat.com/).
+For more information, please visit [Bharat](https://Bharatkwatra.com/).
